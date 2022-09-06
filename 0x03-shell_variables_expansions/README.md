@@ -1,1 +1,1 @@
-prints possible combinations
+prints a number with two decimal places
