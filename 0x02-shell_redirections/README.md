@@ -1,1 +1,1 @@
-contains pattern
+hide a pattern
