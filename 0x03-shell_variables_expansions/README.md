@@ -1,1 +1,1 @@
-creates a global variable
+addition stored in the environmental variable
