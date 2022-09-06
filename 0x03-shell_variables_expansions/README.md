@@ -1,1 +1,1 @@
-prints a number with two decimal places
+converts number base
