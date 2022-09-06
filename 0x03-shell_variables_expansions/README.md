@@ -1,1 +1,1 @@
-local variables and others
+creates a local variable
