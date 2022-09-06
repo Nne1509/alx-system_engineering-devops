@@ -1,1 +1,1 @@
-print hello
+display content
