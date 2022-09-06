@@ -1,1 +1,1 @@
-count lines in a file
+contains pattern
