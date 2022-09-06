@@ -1,1 +1,1 @@
-displays the result to environmental variables
+converts bases
