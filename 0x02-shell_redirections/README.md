@@ -1,1 +1,1 @@
-hide a pattern
+print lines starting with a letter
