@@ -1,1 +1,1 @@
-converts number base
+encodes and decodes
