@@ -1,1 +1,1 @@
-converts bases
+prints possible combinations
