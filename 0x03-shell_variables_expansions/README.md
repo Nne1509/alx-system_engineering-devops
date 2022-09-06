@@ -1,1 +1,1 @@
-prints results
+displays the result to environmental variables
