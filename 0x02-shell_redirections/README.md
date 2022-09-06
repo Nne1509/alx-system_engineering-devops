@@ -1,1 +1,1 @@
-lists files with gif extension
+acrostic poem
