@@ -1,1 +1,1 @@
-reverse input
+displays everything
