@@ -1,1 +1,1 @@
-lists environmental variables
+local variables and others
