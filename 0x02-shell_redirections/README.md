@@ -1,1 +1,1 @@
-find empty files
+lists files with gif extension
