@@ -1,1 +1,1 @@
-displays the third line
+print in file
