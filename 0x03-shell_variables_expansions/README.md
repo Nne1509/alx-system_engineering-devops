@@ -1,1 +1,1 @@
-encodes and decodes
+prints every other line
